@@ -60,3 +60,4 @@ The InteNet plugin allows you to:
 -   If you encounter issues with token transactions, ensure your EVM wallet has sufficient funds for gas fees.
 -   For plugin-specific errors, check the console logs in your Gitpod terminal.
 -   Join the [dForce Network Discord](https://discord.gg/dforce) for community support and updates.
+
